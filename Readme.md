@@ -1,4 +1,4 @@
-# Abstarct of the Paper
+# Abstract of the Paper
 This paper introduces an artificial intelligence based muscle tracking system that measures and visualizes muscle changes before and after training sessions. The system uses a smart mirror with computer vision and a mesh grid to capture images of specific muscle areas both prior to and following exercise. It then compares each grid cell to assess changes in the muscle, focusing on the extent of stretching and contracting. The resulting visual feedback provides users with a clear view of which muscles have been engaged and how they have responded to the workout, enabling them to monitor their progress over time and adjust their training routines accordingly.
 
 ## Accepted in IEEE @ TEMSCON 2025
